@@ -1,3 +1,6 @@
+
+<h1 align="center"><img src="Screenshots/habitica_logo.png"></h1>
+
 # Aplikasi Web "Habitica"
 
 **Kelompok 1 Komunikasi Data dan Jaringan**
