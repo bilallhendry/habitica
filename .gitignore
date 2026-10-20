@@ -1,0 +1,6 @@
+# Kunci dan data rahasia: jangan pernah di-upload
+*.pem
+*.key
+.env
+backups/
+*.archive.gz
